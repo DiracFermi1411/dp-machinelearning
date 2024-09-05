@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# Machine Learning app 
 
-Description of the app ...
+This is a Machine Leaning Application
 
 ## Demo App
 
