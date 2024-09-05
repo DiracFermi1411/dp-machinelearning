@@ -2,4 +2,4 @@ import streamlit as st
 
 st.title('🎈 Machine Learning')
 
-st.write('Hello streamlit!')
+st.info('This deploys an ML model')
